@@ -1,0 +1,10 @@
+@charset "utf-8";
+
+li{list-style: none;}
+#content_product{width: 100%;margin-bottom: 20px;}
+#content_product:after{content: '';display: block;clear: both;}
+
+#content_product h2{font-size: 1.5em;color: darkgreen;}
+#content_product .product_box{width: 100%;margin: 10px;}
+#content_product .product_box li{float: left;width: 47%;}
+#content_product .product_box li img{width: 100%;}

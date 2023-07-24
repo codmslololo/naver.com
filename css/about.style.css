@@ -1,0 +1,9 @@
+@charset "utf-8";
+#content_about {width: 100%;}
+#content_about .about_box{width:100%;margin:10px;}
+#content_about .about_box h2{ color: darkgreen;font-size: 1.5em;
+margin-bottom:10px;}
+#content_about .about_box h3{color: #333;font-size: 1.2em;margin-bottom:10px;}
+#content_about .about_box img{width: 95%;}
+#content_about .about_box p{font-size: 0.9em;font-family: '돋움';
+  text-align: justify;margin-right:20px;  margin-bottom:10px;} 
